@@ -1,4 +1,4 @@
-# XID: Federated Decentralized Identity System
+# XID: Federated Decentralized Identity System (Draft)
 
 ## Abstract
 
